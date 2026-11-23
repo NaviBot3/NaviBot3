@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет, я Платон👋
 
 <!--
 **NaviBot3/NaviBot3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
